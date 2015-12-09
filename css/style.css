@@ -1159,8 +1159,8 @@ ol {
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: auto;
-    min-height: 320px;
-    max-height: 1000px;
+    min-height: auto;
+    max-height: auto;
     text-align: center;
     padding-top: 5%;
     padding-bottom: 2%;
